@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-    💜 Pokédex 💜 <br> 
+    ❤️ Pokédex :yellow_heart: <br> 
 </h4>
 
 
@@ -23,9 +23,8 @@
 ## :rocket: Tecnologias
 
 - [React](https://reactjs.org)
-- [Heroku]()
-- [Axios]()
-- [PokeAPI]()
+- [Axios](https://www.npmjs.com/package/axios)
+- [PokeAPI](https://pokeapi.co/)
 
 ## 💻 Projeto
 
@@ -33,7 +32,9 @@
 
 ## 📚 Principais conceitos abordados
 
-- 
+- Consumir um API
+- Busca pelas rotas
+- State & Function
 
 ## 🤔 Configuração do projeto
 
@@ -41,7 +42,6 @@
 - Instale as dependências necessárias
 - Execute 'npm start' no terminal
 
-**Ou acesse o link do Firebase**
 
 
 
