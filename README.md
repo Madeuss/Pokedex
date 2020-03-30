@@ -17,7 +17,6 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/mobDesk.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
