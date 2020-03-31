@@ -40,9 +40,13 @@
 - Clone o repositório
 - Instale as dependências necessárias
 - Execute 'npm start' no terminal
+- Ou clique no link abaixo se deseja apenas visualizar a aplicação :smile:
+  
+:point_down:**Link da aplicação hospedada no Firebase** :point_down:
 
-**Futuro link do Heroku** :point_down:
+    
 
- [Pokedex](https://pokedex-1dd67.firebaseapp.com/)
+<span><img alt="Be the hero" title="#logo" src=".github/pokeball.svg" width="17px" /> </span> [Pokedex](https://pokedex-1dd67.firebaseapp.com/)
+
 
 
