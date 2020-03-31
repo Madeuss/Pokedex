@@ -38,7 +38,7 @@
 ## 🤔 Configuração do projeto
 
 - Clone o repositório
-- Instale as dependências necessárias
+- Instale as <a href="#rocket-dependencia">dependências</a> necessárias
 - Execute 'npm start' no terminal
 - Ou clique no link abaixo se deseja apenas visualizar a aplicação :smile:
   
@@ -48,5 +48,16 @@
 
 <span><img alt="Be the hero" title="#logo" src=".github/pokeball.svg" width="17px" /> </span> [Pokedex](https://pokedex-1dd67.firebaseapp.com/)
 
+
+*Infelizmente o Firebase tira alguns estilos como a fonte personalizada dos titles e da pokédex, assim como a diminuição da font na parte de trás dos cards dos pokémons* :cry:
+
+**Então se deseja apreciar a aplicação em seu máximo, é recomendada a opção de clonagem do repositório**
+
+
+## :bookmark_tabs: Possíveis dependências ou frameworks
+
+- [Axios](https://www.npmjs.com/package/axios) (npm install axios / yarn add axios)
+  
+- [React Bootstrap](https://react-bootstrap.github.io/getting-started/introduction/) (npm install react-bootstrap bootstrap / yarn add react-bootstrap bootstrap )
 
 
