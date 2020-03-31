@@ -38,7 +38,7 @@
 ## 🤔 Configuração do projeto
 
 - Clone o repositório
-- Instale as <a href="#rocket-dependencia">dependências</a> necessárias
+- Instale as <a href="#bookmark_tabs">dependências</a> necessárias
 - Execute 'npm start' no terminal
 - Ou clique no link abaixo se deseja apenas visualizar a aplicação :smile:
   
