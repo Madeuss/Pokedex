@@ -113,7 +113,7 @@ export default function Pokemon(){
                         ))}
                     </ul>
                     <div className="poke-text">
-                        {pokedex.length === 6 && <h1>Pokédex concluída<span>|</span></h1>}
+                        {pokedex.length === 6 && <h1>Pokédex pronta!<span>|</span></h1>}
                     </div>
                 </aside>
             </section>
