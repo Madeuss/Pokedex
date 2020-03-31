@@ -46,20 +46,20 @@
   
 :point_down:**Link da aplicação hospedada no Firebase** :point_down:
 
-    
-
-<span><img alt="Be the hero" title="#logo" src=".github/pokeball.svg" width="17px" /> </span> [Pokedex](https://pokedex-1dd67.firebaseapp.com/)
-
+<span><img alt="Be the hero" title="#logo" src=".github/pokeball.svg" width="17px" /> </span> [Pokedex Firebase](https://pokedex-1dd67.firebaseapp.com/)
 
 *Infelizmente o Firebase tira alguns estilos como a fonte personalizada dos titles e da pokédex, assim como a diminuição da font na parte de trás dos cards dos pokémons* :cry:
 
 **Então se deseja apreciar a aplicação em seu máximo, é recomendada a opção de clonagem do repositório**
 
+<h1></h1>
 
 ## :bookmark_tabs: Possíveis dependências ou frameworks
 
-- [Axios](https://www.npmjs.com/package/axios) (npm install axios / yarn add axios)
-  
-- [React Bootstrap](https://react-bootstrap.github.io/getting-started/introduction/) (npm install react-bootstrap bootstrap / yarn add react-bootstrap bootstrap )
+- [Axios](https://www.npmjs.com/package/axios) ( *npm install axios / yarn add axios* )
 
+- [React router dom](https://reacttraining.com/react-router/web/guides/quick-start) ( *npm install react-router-dom / yarn add react-router-dom* )
 
+- [React icons](https://react-icons.netlify.com/#/) ( *npm install react-icons --save / yarn add react-icons* )
+
+- [React Bootstrap](https://react-bootstrap.github.io/getting-started/introduction/) ( *npm install react-bootstrap bootstrap / yarn add react-bootstrap bootstrap* )
