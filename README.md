@@ -49,7 +49,7 @@
 ![Pokeball](https://cdn.emojidex.com/emoji/hdpi/Pokeball.png "Pokeball") [Pokedex Firebase](https://pokedex-1dd67.firebaseapp.com/)
 
 
-* *Infelizmente o Firebase tira alguns estilos como a fonte personalizada dos titles e da pokédex, assim como a diminuição da font na parte de trás dos cards dos pokémons*
+ * *Infelizmente o Firebase tira alguns estilos como a fonte personalizada dos titles e da pokédex, assim como a diminuição da font na parte de trás dos cards dos pokémons*
 
 **Então se deseja apreciar a aplicação em seu máximo, é recomendada a opção de clonagem do repositório**
 
