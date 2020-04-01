@@ -2,8 +2,6 @@
     <img alt="Be the hero" title="#logo" src=".github/pokeball.svg" width="250px" />
 </h1>
 
-![Pokeball](https://cdn.emojidex.com/emoji/mdpi/Pokeball.png "Pokeball")
-
 <h4 align="center">
     ❤️ Pokédex :yellow_heart: <br> 
 </h4>
@@ -48,7 +46,7 @@
   
 :point_down:**Link da aplicação hospedada no Firebase*** :point_down:
 
-![Pokeball](https://cdn.emojidex.com/emoji/hdpi/Pokeball.png "Pokeball") [Pokedex Firebase](https://pokedex-1dd67.firebaseapp.com/)
+![Pokeball](https://cdn.emojidex.com/emoji/mdpi/Pokeball.png "Pokeball") [Pokedex Firebase](https://pokedex-1dd67.firebaseapp.com/)
 
 
   *Infelizmente o Firebase tira alguns estilos como a fonte personalizada dos titles e da pokédex, assim como a diminuição da font na parte de trás dos cards dos pokémons*
