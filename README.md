@@ -48,6 +48,9 @@
 
 <span><img alt="Be the hero" title="#logo" src=".github/pokeball.svg" width="17px" /> </span> [Pokedex Firebase](https://pokedex-1dd67.firebaseapp.com/)
 
+
+![Pokeball](https://cdn.emojidex.com/emoji/seal/Pokeball.png "Pokeball") fodase
+
 * *Infelizmente o Firebase tira alguns estilos como a fonte personalizada dos titles e da pokédex, assim como a diminuição da font na parte de trás dos cards dos pokémons*
 
 **Então se deseja apreciar a aplicação em seu máximo, é recomendada a opção de clonagem do repositório**
