@@ -1,7 +1,9 @@
 <h1 align="center">
     <img alt="Be the hero" title="#logo" src=".github/pokeball.svg" width="250px" />
 </h1>
-:Pokeball:
+
+![Pokeball](https://cdn.emojidex.com/emoji/px32/Pokeball.png "Pokeball")
+
 <h4 align="center">
     ❤️ Pokédex :yellow_heart: <br> 
 </h4>
