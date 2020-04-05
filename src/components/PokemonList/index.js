@@ -4,7 +4,6 @@ import ProgressBar from 'react-bootstrap/ProgressBar';
 
 import api from '../../services/api';
 
-import '../../global.css';
 import './styles.css';
 
 import logoImg from '../../assets/logo.png';
